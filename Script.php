@@ -34,9 +34,7 @@ class Script
 	
 	public function getIp()
 	{
-		//Script::getIp();
-		$ip = Yii::$app->request->userIP;
-		return $ip;
+		return Yii::$app->request->userIP;
 	}
 	
 	// Script::phone('+7 (999) 00-00-000', ['class' => 'phone'])
