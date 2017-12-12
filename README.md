@@ -6,4 +6,4 @@
 в папке "views"
 в файле, где собираетесь применять:
 
-# use app\model\Script
+# use app\model\Scripts
