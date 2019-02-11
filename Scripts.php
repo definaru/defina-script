@@ -1010,7 +1010,7 @@ class Scripts {
     
     protected static function apiSMS()
     {
-        return $jsonString = file_get_contents('https://sms.ru/my/free?api_id=00EA49F7-4800-F035-64C3-9F7907AE4F2B&json=1');
+        return $jsonString = file_get_contents('https://sms.ru/my/free?api_id='.Yii::$app->sms->apiId.'&json=1');
     }
     
     public function getApiFree() 
