@@ -14,7 +14,7 @@
 ## Usage
 
 ```sh
-$ composer create-project --prefer-dist definaru/defina-script ext_cust
+$ composer require definaru/defina-script ~4.5.0
 ```
 
 ## LICENSE
