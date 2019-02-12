@@ -21,8 +21,7 @@
                 "version":"4.5.0",
                 "source":{
                     "type":"git",
-                    "url":"https://github.com/definaru/defina-script.git",
-                    "reference":"master"
+                    "url":"https://github.com/definaru/defina-script.git"
                 }
             }
         }
