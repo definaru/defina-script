@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://defina.ru/blog/defina-script)
 
-скрипт для фреймворка Yii 2 Advanced
+Скрипт для фреймворка Yii 2 Advanced
 ---------
 Простое применение
 
@@ -17,5 +17,6 @@
 $ composer create-project --prefer-dist definaru/defina-script ext_cust
 ```
 
-LICENSE
+## LICENSE
+
 :clipboard: [BSD 3-Clause](https://github.com/definaru/defina-script/blob/master/LICENSE.md)
