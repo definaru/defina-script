@@ -5,14 +5,15 @@
     "homepage": "https://defina.ru/",
     "type": "library",
     "license": "BSD-3-Clause",
-    "authors": 
-    {
-        "name": "iQs Solution",
-        "email": "defina.inc@yandex.ru",
-        "homepage": "https://defina.ru/",
-        "role": "Founder and project lead"
-    },
-    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "iQs Solution",
+            "email": "defina.inc@yandex.ru",
+            "homepage": "https://defina.ru/",
+            "role": "Founder and project lead"
+        }
+    ],
+    "minimum-stability": "dev-master",
     "repositories":[
         {
             "type":"package",
