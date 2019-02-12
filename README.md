@@ -14,6 +14,28 @@
 ## Usage
 
 ```sh
+    "repositories":[
+        {
+            "type":"package",
+            "package":{
+                "name":"definaru/defina-script",
+                "version":"4.5.0",
+                "source":{
+                    "type":"git",
+                    "url":"https://github.com/definaru/defina-script.git",
+                    "reference":"master"
+                }
+            }
+        }
+    ],
+    "require": {
+        "definaru/defina-script": "^4.5"
+    },
+```
+
+Or add:
+
+```sh
 $ composer require definaru/defina-script
 ```
 
