@@ -1,18 +1,18 @@
 {
-	"name": "definaru/defina-script",
-	"description": "Defina-script For CMS Defina",
-	"keywords": ["Defina", "CMS"],
-	"homepage": "https://defina.ru/",
-	"type": "library",
-	"license": "BSD-3-Clause",
-	"authors": [
-		{
-			"name": "iQs Solution",
-			"email": "defina.inc@yandex.ru",
-			"homepage": "https://defina.ru/",
-			"role": "Founder and project lead"
-		},
-	],
+    "name": "definaru/defina-script",
+    "description": "Defina-script For CMS Defina",
+    "keywords": ["Defina", "CMS"],
+    "homepage": "https://defina.ru/",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": 
+    {
+        "name": "iQs Solution",
+        "email": "defina.inc@yandex.ru",
+        "homepage": "https://defina.ru/",
+        "role": "Founder and project lead"
+    },
+    "minimum-stability": "dev",
     "repositories":[
         {
             "type":"package",
@@ -29,5 +29,5 @@
     ],
     "require": {
         "definaru/defina-script": "^4.5"
-    },
+    }
 }
