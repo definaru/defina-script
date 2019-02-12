@@ -18,4 +18,4 @@ $ composer create-project --prefer-dist definaru/defina-script ext_cust
 ```
 
 LICENSE
-:clipboard: [BSD 3-Clause](https://github.com/definaru/defina-script/edit/master/LICENSE.md)
+:clipboard: [BSD 3-Clause](https://github.com/definaru/defina-script/blob/master/LICENSE.md)
