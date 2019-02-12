@@ -13,6 +13,8 @@
 
 ## Usage
 
+`composer.json`
+
 ```sh
     "repositories":[
         {
