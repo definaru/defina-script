@@ -13,7 +13,7 @@
             "role": "Founder and project lead"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "stability",
     "repositories":[
         {
             "type":"package",
