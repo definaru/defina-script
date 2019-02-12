@@ -14,7 +14,7 @@
 ## Usage
 
 ```sh
-$ composer require definaru/defina-script dev-master
+$ composer require definaru/defina-script
 ```
 
 ## LICENSE
