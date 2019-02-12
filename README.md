@@ -39,6 +39,9 @@ Or add:
 ```sh
 $ composer require definaru/defina-script
 ```
+## Packagist
+
+<https://packagist.org/packages/definaru/defina-script>
 
 ## LICENSE
 
