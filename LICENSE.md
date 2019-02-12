@@ -1,4 +1,4 @@
-Copyright © 2019 by Defina Corporation LLC (http://defina.ru)
+Copyright © 2019 by Defina Corporation LLC (https://defina.ru)
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
