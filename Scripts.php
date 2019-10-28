@@ -1031,5 +1031,12 @@ class Scripts {
     {
         return Html::tag('p', Defina::STARS.$text.' '.Html::tag('tt', $subscript), ['class' => 'text-muted']);
     }
+	
+    public function headerShow($str, $tag)
+    {
+	$split = explode(" ", $str);
+	$html = $split[count($split)-1];
+	return str_replace($html, '', $str).Html::tag($tag, $html);
+    }
 
 }
