@@ -2,7 +2,7 @@
 
 [![Inc. Defina](https://definaru.github.io/assets/images/button11.png)](https://defina.ru)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://defina.ru/blog/defina-script)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://defina.ru/blog/defina_script)
 
 Скрипт для фреймворка Yii 2 Advanced
 ---------
